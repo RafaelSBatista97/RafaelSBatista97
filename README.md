@@ -16,8 +16,7 @@ I'm a Software Developer <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb
 
 - 🌱 I'm always up to learn new things.
 - 🏢 Currently working at **xgeeks**.
-- 🏎️ Love motorsports
-- 
+- 🏎️ Love motorsports.
 <!-- - :fire: Automation is Key
 - :goal_net: Goals: Contribute to Open Source Projects -->
 
