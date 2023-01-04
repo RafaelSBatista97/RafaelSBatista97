@@ -4,14 +4,7 @@
     <a href="https://www.linkedin.com/in/rafael-batista-0737411a4/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <!-- <a href="your-youtube-URL">
-      <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-    </a> -->
-    <!-- <a href="https://twitter.com/TheStereoPT">
-      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-    </a> -->
   </div>
-  <img src="https://komarev.com/ghpvc/?username=stereopt&style=flat-square&color=blue" alt=""/>
 </div>
 <!-- <div align="center">
   <img src="./bannerImage.svg" />
@@ -19,10 +12,12 @@
 
 ### :desktop_computer: About me :
 
-I'm a Software Developer <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="20" /> from Portugal
+I'm a Software Developer <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="20" /> from Portugal 🇵🇹
 
-- :rocket: I’m working as a **Software Engineer**
-- :office: Currently Working at **xgeeks**
+- 🌱 I'm always up to learn new things.
+- 🏢 Currently working at **xgeeks**.
+- 🏎️ Love motorsports
+- 
 <!-- - :fire: Automation is Key
 - :goal_net: Goals: Contribute to Open Source Projects -->
 
